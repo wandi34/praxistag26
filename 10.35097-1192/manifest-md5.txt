@@ -1,0 +1,4 @@
+ea9e1ec73d290b2ad3953f34206a1d3c  data/readme.txt
+0acb40b5d3cf2fce40cecfe60e59e9af  data/technical-md/dataset.tech_md.xml
+bffb2e81ed2a80f71e51472bec0a464d  data/descriptive-md/dataset.desc_md.xml
+85d5f55787637da85dd80a89e006583f  data/dataset/IndustrialElectricityConsumption.csv

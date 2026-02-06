@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:radarDataset xmlns="http://radar-service.eu/schemas/descriptive/radar/v09/radar-elements" xmlns:ns2="http://radar-service.eu/schemas/descriptive/radar/v09/radar-dataset">
+    <identifier identifierType="DOI">10.35097/1192</identifier>
+    <alternateIdentifiers>
+        <alternateIdentifier alternateIdentifierType="KITopen-DOI">10.5445/IR/1000098027</alternateIdentifier>
+    </alternateIdentifiers>
+    <creators>
+        <creator>
+            <creatorName>Huber, Julian</creatorName>
+            <givenName>Julian</givenName>
+            <familyName>Huber</familyName>
+        </creator>
+        <creator>
+            <creatorName>Klempp, Nikolai</creatorName>
+            <givenName>Nikolai</givenName>
+            <familyName>Klempp</familyName>
+        </creator>
+        <creator>
+            <creatorName>Becker, Jens</creatorName>
+            <givenName>Jens</givenName>
+            <familyName>Becker</familyName>
+        </creator>
+        <creator>
+            <creatorName>Weinhardt, Christof</creatorName>
+            <givenName>Christof</givenName>
+            <familyName>Weinhardt</familyName>
+        </creator>
+    </creators>
+    <title>Electricity consumption of 28 German companies in 15-min resolution</title>
+    <descriptions>
+        <description descriptionType="Abstract">This dataset contains the electric power consumption of 28 German companies in 15 minutes resolution. The data was adjusted for inconsistencies in the daylight saving time transitions. Other inconsistencies and errors were not eliminated.&#xD;
+The data were collected by power utilities for billing purposes and covers the years 2014 and 2018. The companies provided the data to the C/sells the project.  &#xD;
+The authors want to thank Wolff and Müller Energy for providing the data. Further, the Germany Federal Ministry for Economic Affairs and Energy for funding and support. This research was partly financed by the Smart Energy Showcases - Digital Agenda for the Energy Transition (SINTEG) program. All values are mean power values in kW in the 15 minute intervals.</description>
+        <description descriptionType="TechnicalRemarks">Open CSV data with any editor.</description>
+    </descriptions>
+    <keywords>
+        <keyword keywordScheme="Other">Electricity consumption</keyword>
+        <keyword keywordScheme="Other">Industry</keyword>
+        <keyword keywordScheme="Other">Time series</keyword>
+    </keywords>
+    <publishers>
+        <publisher nameIdentifierScheme="ROR" schemeURI="https://ror.org/" nameIdentifier="https://ror.org/04t3en479">Karlsruhe Institute of Technology</publisher>
+    </publishers>
+    <productionYear>2019</productionYear>
+    <publicationYear>2023</publicationYear>
+    <subjectAreas>
+        <subjectArea>
+            <controlledSubjectAreaName>Computer Science</controlledSubjectAreaName>
+        </subjectArea>
+    </subjectAreas>
+    <resource resourceType="Dataset"></resource>
+    <rights>
+        <controlledRights>CC BY 4.0 Attribution</controlledRights>
+    </rights>
+    <rightsHolders>
+        <rightsHolder nameIdentifierScheme="Other">Huber, Julian</rightsHolder>
+        <rightsHolder nameIdentifierScheme="Other">Klempp, Nikolai</rightsHolder>
+        <rightsHolder nameIdentifierScheme="Other">Becker, Jens</rightsHolder>
+        <rightsHolder nameIdentifierScheme="Other">Weinhardt, Christof</rightsHolder>
+    </rightsHolders>
+</ns2:radarDataset>
